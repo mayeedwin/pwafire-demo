@@ -146,7 +146,7 @@ copyImage?.addEventListener('click', async (event) => {
 
   // Example image URL
   const imageUrl =
-    'https://img.freepik.com/free-psd/watercolor-painting-three-dark-red-roses-with-green-leaves-stems-beautiful-botanical-illustration_632498-28890.jpg?t=st=1741033927~exp=1741037527~hmac=f7b2116ea62c3afe2b6727076af79ac7dcf48e0d23c3eb6358cc15a4843ffc6a&w=740';
+    'https://res.cloudinary.com/duqxmomkm/image/upload/v1741034800/samples/chair.png';
 
   showDialog(
     'Click the button below to copy this image to clipboard:',
